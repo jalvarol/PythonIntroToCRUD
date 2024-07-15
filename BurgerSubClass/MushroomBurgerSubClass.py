@@ -1,5 +1,4 @@
 #This file contains the Mushroom Burger Subclass
-
 from SuperBurger import Burger
 
 class Mushroom(Burger):
