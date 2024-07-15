@@ -1,5 +1,4 @@
 #This file contains the Don Cali Burger Subclass
-
 from SuperBurger import Burger
 
 class DonCali(Burger):
