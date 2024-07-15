@@ -1,6 +1,4 @@
 #This class contains the Staff Subclass - extends Person SuperClass
-
-
 import time
 import datetime
 import os
