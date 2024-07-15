@@ -1,5 +1,4 @@
 #This file contains the Bacon Cheese Subclass
-
 from SuperBurger import Burger
 
 class BaconCheese(Burger):
