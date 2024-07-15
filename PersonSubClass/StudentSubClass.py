@@ -1,6 +1,3 @@
-#Jose Alvaro Leos
-#CIS 41A
-#6/2/2020
 #This class contains the Student Subclass - extends Person SuperClass
 
 import time
