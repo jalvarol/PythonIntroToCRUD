@@ -1,5 +1,4 @@
 #This file contains the Western Burger Subclass
-
 from SuperBurger import Burger
 
 class Western(Burger):
