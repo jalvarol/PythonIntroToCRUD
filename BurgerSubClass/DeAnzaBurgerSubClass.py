@@ -1,5 +1,4 @@
 #This file contains the De Anza Burger Subclass
-
 from SuperBurger import Burger
 
 class DeAnza(Burger):
